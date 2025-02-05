@@ -4,16 +4,16 @@ Refer to the LazyVim [documentation](https://lazyvim.github.io/installation).
 
 ## Configuration
 
-## Plugins & language servers
+### Plugins & language servers
 
 - typescript
-- typescriptreact
+- React
 - json
 - prettier
-- codeium
+- Codeium
 
 ### Color scheme
 
-- catppuccion
+- catppuccin
 - tailwindcss
 - tailwindcss colorizer
