@@ -3,8 +3,8 @@ theme = catppuccin-mocha
 font-size = 19
 
 # background
-background = 2a2d31
-background-opacity = 0.7
+background = black
+background-opacity = 0.55
 background-blur-radius = 20
 
 # keybinds
